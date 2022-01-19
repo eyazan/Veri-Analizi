@@ -1,0 +1,2 @@
+# Veri-Analizi
+GlobalAI Eğitim
